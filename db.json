@@ -1,0 +1,283 @@
+{
+    "beds": [
+      {
+        "id": 1,
+        "name": "Embark Pink Dog Bed",
+        "price": "$7.99",
+        "description": "Product 1 description",
+        "imageSrc": "./src/assets/db/beds/1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Embark Multi-Coloured Dog Bed ",
+        "price": "$8.99",
+        "description": "(36x27cm)",
+        "imageSrc": "./src/assets/db/beds/2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Embark Polka Dot Dog Bed ",
+        "price": "$8",
+        "description": "(36x27cm)",
+        "imageSrc": "./src/assets/db/beds/3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Embark Stripe Pattern Dog Bed ",
+        "price": "$8",
+        "description": "(36x27cm)",
+        "imageSrc": "./src/assets/db/beds/4.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Embark Camouflage Print Dog Bed",
+        "price": "$42.10",
+        "description": "80cm",
+        "imageSrc": "./src/assets/db/beds/5.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Embark Oval Puzzle Print Dog Bed",
+        "price": "$50.52",
+        "description": "110cm",
+        "imageSrc": "./src/assets/db/beds/6.jpg"
+      },{
+        "id": 7,
+        "name": "Embark Dog Mat",
+        "price": "$16",
+        "description": "",
+        "imageSrc": "./src/assets/db/beds/7.jpg"
+      },{
+        "id": 8,
+        "name": "Embark Fluffy Dog Bed",
+        "price": "$11.62",
+        "description": "50x40cm",
+        "imageSrc": "./src/assets/db/beds/8.jpg"
+      }
+    ],
+    "cats": [
+      {
+        "id": 1,
+        "name": "Trixie Cat Harness",
+        "price": "$5.39",
+        "description": "",
+        "imageSrc": "./src/assets/db/cats/1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Trixie Cat Playing rod with leather straps",
+        "price": "$4",
+        "description": "",
+        "imageSrc": "./src/assets/db/cats/2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Trixie Playing Rod with Mouse",
+        "price": "$6.39",
+        "description": "Playing Rod with Mouse plush (polyester)/plastic",
+        "imageSrc": "./src/assets/db/cats/3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Trixie Scoop for Feed or Litter Small",
+        "price": "$7",
+        "description": "Scoop for Feed or Litter plastic",
+        "imageSrc": "./src/assets/db/cats/4.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Trixie Car Cat Harness",
+        "price": "$12.80",
+        "description": "Product 1 description",
+        "imageSrc": "./src/assets/db/cats/5.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Trixie Mica Scratching Post",
+        "price": "$62.65",
+        "description": "",
+        "imageSrc": "./src/assets/db/cats/6.jpg"
+      },{
+        "id": 7,
+        "name": "Trixie Parla Scratching Post",
+        "price": "$46.82",
+        "description": "",
+        "imageSrc": "./src/assets/db/cats/7.jpg"
+      },{
+        "id": 8,
+        "name": "Trixie flexi BLACK DESIGN Cord Lead",
+        "price": "$25.26",
+        "description": "5m",
+        "imageSrc": "./src/assets/db/cats/8.jpg"
+      }
+    ],
+    "dogs": [
+      {
+        "id": 1,
+        "name": "Trixie BE NORDIC Leash",
+        "price": "$22.90",
+        "description": "",
+        "imageSrc": "./src/assets/db/dogs/1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Trixie BE NORDIC Leash",
+        "price": "$23.26",
+        "description": "",
+        "imageSrc": "./src/assets/db/dogs/2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Trixie Fur Care Glove",
+        "price": "$9.43",
+        "description": "",
+        "imageSrc": "./src/assets/db/dogs/3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Trixie Tooth Brush 4 Pcs",
+        "price": "$11.79",
+        "description": "",
+        "imageSrc": "./src/assets/db/dogs/4.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Trixie flexi New CLASSIC Cord Lead",
+        "price": "$25.26",
+        "description": "5m",
+        "imageSrc": "./src/assets/db/dogs/5.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Trixie Stainless Steel Bowl",
+        "price": "$9.77",
+        "description": "",
+        "imageSrc": "./src/assets/db/dogs/6.jpg"
+      },{
+        "id": 7,
+        "name": "Dog Toy Double Ring",
+        "price": "$6.40",
+        "description": "",
+        "imageSrc": "./src/assets/db/dogs/7.jpg"
+      },{
+        "id": 8,
+        "name": "Trixie Jumper on a Rope",
+        "price": "$14.82",
+        "description": "",
+        "imageSrc": "./src/assets/db/dogs/8.jpg"
+      }
+    ],
+    "final": [
+      {
+        "id": 1,
+        "name": "Migliorgatto Adult Cat Kibble",
+        "price": "$12.66",
+        "description": "Salmon & Herring 1.5kg",
+        "imageSrc": "./src/assets/db/final/1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Taste Of the Wild (TOW)",
+        "price": "$64.84",
+        "description": "Adult 12.2kg",
+        "imageSrc": "./src/assets/db/final/2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Happy Dog Supreme Young",
+        "price": "$6.06",
+        "description": "Junior Original",
+        "imageSrc": "./src/assets/db/final/3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Drools Puppy Dog Food",
+        "price": "$2.69",
+        "description": "Chicken and Egg 1.2Kg",
+        "imageSrc": "./src/assets/db/final/4.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Classic Pet",
+        "price": "$24.40",
+        "description": "Puppy 10KG",
+        "imageSrc": "./src/assets/db/final/5.jpg"
+      },
+      {
+        "id": 6,
+        "name": "SmartHeart",
+        "price": "$23.17",
+        "description": "Adult 10KG",
+        "imageSrc": "./src/assets/db/final/6.jpg"
+      },{
+        "id": 7,
+        "name": "Classic Pet",
+        "price": "$22.57",
+        "description": "Adult 10KG",
+        "imageSrc": "./src/assets/db/final/7.jpg"
+      },{
+        "id": 8,
+        "name": "Pedigree Chicken & Vegetables",
+        "price": "$14.82",
+        "description": "3Kg - Adult Dog",
+        "imageSrc": "./src/assets/db/final/8.jpg"
+      }
+    ],
+    "petcare": [
+      {
+        "id": 1,
+        "name": "Trixie Paw Care Cream",
+        "price": "$5.05",
+        "description": "",
+        "imageSrc": "./src/assets/db/petcare/1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Balm for the Eye Area",
+        "price": "$6.40",
+        "description": "",
+        "imageSrc": "./src/assets/db/petcare/2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Dental Care Water with Apple Aroma",
+        "price": "$7.40",
+        "description": "",
+        "imageSrc": "./src/assets/db/petcare/3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Dental Care Water",
+        "price": "$7.40",
+        "description": "",
+        "imageSrc": "./src/assets/db/petcare/4.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Diapers for Female Dogs",
+        "price": "$7.41",
+        "description": "",
+        "imageSrc": "./src/assets/db/petcare/5.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Ear-CareSingle-use finger pads",
+        "price": "$10.78",
+        "description": "",
+        "imageSrc": "./src/assets/db/petcare/6.jpg"
+      },{
+        "id": 7,
+        "name": "Trixie Eye-Care Single-use pads",
+        "price": "$5.39",
+        "description": "",
+        "imageSrc": "./src/assets/db/petcare/7.jpg"
+      },{
+        "id": 8,
+        "name": "Fur Care Glove",
+        "price": "$8.42",
+        "description": "",
+        "imageSrc": "./src/assets/db/petcare/8.jpg"
+      }
+    ]
+  }
+  
